@@ -7,7 +7,7 @@ This is a simple Windows Batch script that allows users to analyze the volume le
 1. FFmpeg:
 - 	Ensure ffmpeg.exe is available in the same directory as the script or in the system's PATH.
 - 	Download FFmpeg from https://ffmpeg.org/.
-1. Windows Environment:
+2. Windows Environment:
 - 	This script is designed for Windows and uses the Batch scripting language.
 
 # Usage:
